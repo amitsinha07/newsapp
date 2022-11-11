@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Kevin Liptak",
+      "title": "Biden aims to assert American leadership abroad at UN climate summit and G20 - CNN",
+      "description": "It's a story President Joe Biden tells at nearly every opportunity: last year, meeting his new counterparts at his first international summit, he proudly informed them, \"America is back.\"",
+      "url": "https://www.cnn.com/2022/11/10/politics/biden-foreign-trip-north-africa-asia-cop27-g20/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221110113724-joe-biden-110922.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-11T04:20:00Z",
+      "content": "Sharm El Sheikh, EgyptCNN\r\n  — \r\nIts a story President Joe Biden tells at nearly every opportunity: last year, meeting his new counterparts at his first international summit, he proudly informed them… [+8226 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "Cody Benjamin",
+      "title": "Falcons vs. Panthers score: Carolina swallows up Marcus Mariota to down Atlanta in ugly NFC South contest - CBS Sports",
+      "description": "Could a QB change be on the way in Atlanta?",
+      "url": "https://www.cbssports.com/nfl/news/falcons-vs-panthers-score-takeaways-carolina-swallows-up-marcus-mariota-atlanta-in-ugly-nfc-south-contest/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/11/11/edbc50ed-280a-40eb-9153-c6419d0feacc/thumbnail/1200x675/8f14c4162e6a76f110cec5e11b1b5dfb/donta-foreman-2-usatsi.jpg",
+      "publishedAt": "2022-11-11T04:16:00Z",
+      "content": "The Falcons came into Charlotte on Thursday night looking to retake the NFC South lead. Instead, they left dampened and defeated, not only by the rainy remnants of Hurricane Nicole, but their rival P… [+3643 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Control of U.S. Congress hangs in balance as states labor to count ballots - Reuters",
+      "description": "Two days after Americans went to the polls, the political world remained on tenterhooks on Thursday, with both chambers of the U.S. Congress up for grabs as election officials painstakingly tallied hundreds of thousands of votes in a process that could take d…",
+      "url": "https://www.reuters.com/world/us/republicans-close-us-house-majority-senate-still-up-grabs-2022-11-10/",
+      "urlToImage": "https://www.reuters.com/resizer/SZ3HCteHIi_z1FgiOfFPXNod2o0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T2F6JRJOYNOZPF5S45SUVSJILM.jpg",
+      "publishedAt": "2022-11-11T03:53:00Z",
+      "content": "PHOENIX, Nov 10 (Reuters) - Two days after Americans went to the polls, the political world remained on tenterhooks on Thursday, with both chambers of the U.S. Congress up for grabs as election offic… [+4674 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Jill Colvin",
+      "title": "Trump faces blame from GOP as he moves forward with WH bid - The Associated Press - en Español",
+      "description": "WASHINGTON (AP) — Republicans intensified their public criticism  of former President Donald Trump  on Thursday, with some saying it was time for the party to move on after an unexpectedly poor showing  in the midterm elections, even as he prepared to launch …",
+      "url": "https://apnews.com/article/2022-midterm-elections-donald-trump-00c770068d8b82f165a9f4871eee983b",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/66bf5dfc2dc445ed8840b26ee9008833/3000.jpeg",
+      "publishedAt": "2022-11-11T03:49:49Z",
+      "content": "WASHINGTON (AP) Republicans intensified their public criticism of former President Donald Trump on Thursday, with some saying it was time for the party to move on after an unexpectedly poor showing i… [+6700 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Kari Lake: Interviewing the election denier who could be Arizona governor - BBC",
+      "description": "The TV anchor turned Trump-backed candidate is good at delivering a message. But does she believe in it?",
+      "url": "https://www.bbc.com/news/world-us-canada-63593153",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1130/production/_127600440_gettyimages-1440085172.jpg",
+      "publishedAt": "2022-11-11T03:37:12Z",
+      "content": "Media caption, BBC's Katty Kay challenges Kari Lake on her 2020 election claims\r\nAn election-denying former journalist could be the next governor of Arizona. But does Kari Lake truly believe in what … [+6284 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Aya Elamroussi, Dakin Andone, Alaa Elassar",
+      "title": "At least 2 reported dead as Nicole weakens after striking Florida's east coast as the first US hurricane in November in nearly 40 years - CNN",
+      "description": "At least two people have died during the damage wrought by Nicole's overnight landfall Thursday along Florida's eastern shore, which knocked out power to thousands, pushed buildings near collapse and flooded the coast as the first hurricane to hit the United …",
+      "url": "https://www.cnn.com/2022/11/10/weather/hurricane-nicole-florida-thursday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221110102725-03-nicole-florida-110922.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-11T03:29:00Z",
+      "content": "Editors Note: Affected by the storm? Use CNNs lite site for low bandwidth.\r\nAt least two people have died during the damage wrought by Nicoles overnight landfall Thursday along Floridas eastern shore… [+5121 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Katie Lobosco",
+      "title": "Federal court strikes down Biden's student loan forgiveness program - CNN",
+      "description": "A federal judge in Texas has struck down President Joe Biden's student loan forgiveness program, declaring it illegal.",
+      "url": "https://www.cnn.com/2022/11/10/politics/biden-student-loan-forgiveness-struck-down/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220901184608-joe-biden-file-083022.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-11T03:27:00Z",
+      "content": "A federal judge in Texas has struck down President Joe Bidens student loan forgiveness program, declaring it illegal.\r\nThe lawsuit was filed by a conservative group, the Job Creators Network Foundati… [+3383 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Democratic Hopes Rise on Senate Control as Two States Count Votes - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiU2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTAvdXMvcG9saXRpY3MvZGVtb2NyYXRpYy1zZW5hdGUtY29udHJvbC1hei1udi5odG1s0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-11T02:54:42Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Ed Ludlow, Kurt Wagner, Davey Alba and Paula Seligson",
+      "title": "Musk Warns Twitter Bankruptcy Possible If Cash Burn Lingers - Yahoo Finance",
+      "description": "(Bloomberg) -- Elon Musk, in his first address to Twitter Inc. employees since purchasing the company for $44 billion, said that bankruptcy was a possibility...",
+      "url": "https://finance.yahoo.com/news/musk-warns-twitter-bankruptcy-possible-214601204.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DzplhHbHuQoUTQrwkq8hLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/1d24c45530c7b216f8c116040757dec1",
+      "publishedAt": "2022-11-11T02:48:45Z",
+      "content": "(Bloomberg) -- Elon Musk, in his first address to Twitter Inc. employees since purchasing the company for $44 billion, said that bankruptcy was a possibility if it doesnt start generating more cash, … [+4710 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Charles Robinson",
+      "title": "D.C. lawsuit might end Dan Snyder's tenure as Commanders owner — and it could bring down NFL commish Roger Goodell with him - Yahoo Sports",
+      "description": "The Washington Commanders' legal problems are no longer just a Dan Snyder problem. They're an NFL problem, which is bad news for Roger Goodell.",
+      "url": "https://sports.yahoo.com/dc-lawsuit-may-not-only-end-dan-snyders-tenure-as-nfl-owner-it-could-bring-roger-goodell-down-with-him-022001389.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FuORfuYgFxFZ1RDO8.8KJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/ae1273f0-183d-11ed-beef-01fcb69e6a22",
+      "publishedAt": "2022-11-11T02:20:00Z",
+      "content": "Litigation seemed inevitable. But the targets? That was a surprise for the NFL.\r\nThats the takeaway from the latest tentpole of embarrassment for Washington Commanders owner Dan Snyder, who was sued … [+6496 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Kyrie Irving Is Not Antisemitic, Says NBA Commissioner Adam Silver - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTAvc3BvcnRzL2Jhc2tldGJhbGwva3lyaWUtaXJ2aW5nLWFudGlzZW1pdGljLWFkYW0tc2lsdmVyLmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-11T01:43:29Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Samantha Lock",
+      "title": "Russia-Ukraine war at a glance: what we know on day 261 of the invasion - The Guardian",
+      "description": "Ukraine estimates it will take at least a week for Russian troops to leave Kherson city; Kyiv claims liberation of the key town of Snihurivka",
+      "url": "https://www.theguardian.com/world/2022/nov/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-261-of-the-invasion",
+      "urlToImage": "https://i.guim.co.uk/img/media/8e584951de93429a0e3805a4980cf27af9a612cf/0_264_8256_4954/master/8256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=874b4b282245aa5d959e162a477e1ca1",
+      "publishedAt": "2022-11-11T01:17:00Z",
+      "content": "Ukraines defence minister said Russians will take at least a week to leave Kherson city and Moscow still had a contingent of 40,000 troops in the Kherson region. Its not that easy to withdraw these t… [+463 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Brie Stimson",
+      "title": "Elizabeth Hurley says it was a ‘nightmare’ working with Matthew Perry amid actor's addiction - Fox News",
+      "description": "Elizabeth Hurley spoke about Matthew Perry's past addiction struggles this week, saying their 2002 film \"Serving Sara\" was temporarily shut down so he could go to rehab.",
+      "url": "https://www.foxnews.com/entertainment/elizabeth-hurley-says-nightmare-working-matthew-perry-amid-actor-addiction",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/elizabeth-hurley-matthew-perry.jpg",
+      "publishedAt": "2022-11-11T00:40:05Z",
+      "content": "Elizabeth Hurley said it was a \"nightmare\" working with Matthew Perry on their 2002 film \"Serving Sara,\" which was shot at the height of his drug addiction. \r\nThe production had to be abruptly shut d… [+2104 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Guardian staff reporter",
+      "title": "Collapse of FTX cryptocurrency under scrutiny by federal authorities - The Guardian",
+      "description": "The blow comes soon after rival Binance backed out of a merger deal this week after due diligence of the exchange’s books",
+      "url": "https://www.theguardian.com/technology/2022/nov/10/ftx-cryptocurrency-collapse-investigation",
+      "urlToImage": "https://i.guim.co.uk/img/media/b9abb0fc44ef0de66a8e23880c41d13bffe51c52/0_136_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e07dca057659d8a4644a04379876270a",
+      "publishedAt": "2022-11-11T00:35:00Z",
+      "content": "The swift collapse of the cryptocurrency exchange FTX sent more shockwaves through the crypto world on Thursday, with authorities now investigating the firm for potential securities violations and an… [+4194 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Lisa Respers France",
+      "title": "Dave Chappelle's representative says there is no 'SNL' writers boycott ahead of his hosting gig - CNN",
+      "description": "Dave Chappelle's representative is pushing back on a report that claimed \"Saturday Night Live\" writers were staging a boycott ahead of his hosting the show this weekend.",
+      "url": "https://www.cnn.com/2022/11/10/entertainment/dave-chappelle-snl-boycott/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221110124434-dave-chappelle-220620-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-11T00:34:00Z",
+      "content": "Dave Chappelles representative is pushing back on a report that claimed Saturday Night Live writers were staging a boycott ahead of his hosting the show this weekend.\r\nOn Wednesday, The New York Post… [+1718 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Sharon Braithwaite, James Frater, Barbara von Bulow, Sugam Pokharel",
+      "title": "Police officer killed in stabbing attack in Brussels, local police say - CNN",
+      "description": "A stabbing attack in Brussels which led to the death of least one police officer is \"suspected to be terror-related,\" authorities said on Thursday.",
+      "url": "https://www.cnn.com/2022/11/10/europe/brussels-stabbing-attack-police-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221110184555-belgium-police-officer-stabbing-intl.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-11T00:14:00Z",
+      "content": "A stabbing attack in Brussels which led to the death of least one police officer is suspected to be terror-related, authorities said on Thursday. \r\nIt is suspected to be terror-related. It has natura… [+2404 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Tanaya Macheel",
+      "title": "Stock futures rise slightly after S&P 500 posts its biggest one-day rally since 2020 - CNBC",
+      "description": "On Thursday, the major averages rallied after October inflation data came in better than expected.",
+      "url": "https://www.cnbc.com/2022/11/10/stock-market-futures-open-to-close-news.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107133389-NYSE-Trading-Floor-OB-20221012-CC-PRESS-6.jpg?v=1668121405&w=1920&h=1080",
+      "publishedAt": "2022-11-11T00:04:00Z",
+      "content": "Stock futures were slightly higher on Thursday night after better-than-feared inflation data fueled a broad market rally.\r\nFutures tied to the Dow Jones Industrial Average added 58 points, or 0.1%. S… [+1432 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Dan Lamothe, Liz Sly, Annabelle Timsit",
+      "title": "100,000 Russian troops killed, wounded in Ukraine, Gen. Mark Milley says - The Washington Post",
+      "description": "Gen. Mark A. Milley’s figure is a sharp increase from the Pentagon’s August estimate of 70,000 to 80,000 Russian casualties.",
+      "url": "https://www.washingtonpost.com/world/2022/11/10/number-russian-troops-killed-injured-ukraine/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U6DXRU7FM6QE57N37SOK3RHQDI.jpg&w=1440",
+      "publishedAt": "2022-11-10T23:57:30Z",
+      "content": "Comment on this story\r\nAs many as 200,000 soldiers have been killed or wounded on both sides in the nearly nine months since Russia invaded Ukraine, according to the Pentagons top general a staggerin… [+4822 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "NASA Launched and Landed LOFTID, an Inflatable Flying Saucer Heat Shield - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTAvc2NpZW5jZS9uYXNhLWxvZnRpZC1pbmZsYXRhYmxlLWhlYXQtc2hpZWxkLmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-10T23:12:29Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Space.com" },
+      "author": "Mike Wall",
+      "title": "NASA assessing damage to Artemis 1 moon rocket from Tropical Storm Nicole - Space.com",
+      "description": "Initial checks suggest the damage is 'very minor.'",
+      "url": "https://www.space.com/artemis-1-moon-rocket-nicole-storm-damage-assessment",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/82ZUqAaDZSv2xq2obvfNib-1200-80.jpeg",
+      "publishedAt": "2022-11-10T22:48:57Z",
+      "content": "NASA has begun to assess how well its Artemis 1 moon rocket weathered a powerful storm that hit its Florida spaceport today..\r\nThat maelstrom was Nicole, which slammed into Florida's Space Coast Thur… [+3375 chars]"
+    }
+  ]
+}
