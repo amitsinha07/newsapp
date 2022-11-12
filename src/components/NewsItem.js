@@ -7,13 +7,13 @@ class NewsItem extends Component {
         let {title, description, imgUrl, url} = this.props;
         return (
           <div className="card" style={{width: "18rem"}}>
-            <img src={imgUrl} className="card-img-top" alt="..." />
+            <img src={!imgUrl?"https://cdn3.iconfinder.com/data/icons/ballicons-reloaded-free/512/icon-70-512.png":imgUrl} className="card-img-top" alt="..." />
             <div className="card-body">
-              <h5 className="card-title">{title.slice(0,45)} ...</h5>
+              <h5 className="card-title">{title} ...</h5>
               <p className="card-text">
-                {description.slice(0, 100)}
+                {description}
               </p>
-              <a href={url} rel='noreferrer' target='_blank' className="btn btn-sm btn-primary">
+              <a href={url} rel='noreferrer' target='_blank' className="btn btn-sm btn-dark">
                 Read More
               </a>
             </div>
