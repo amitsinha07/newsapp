@@ -5,9 +5,17 @@ class NewsItem extends Component {
     let { title, description, imgUrl, url, author, date, source } = this.props;
     return (
       <div className="card">
-        <span class="position-absolute top-0  translate-middle badge rounded-pill bg-danger" style={{left: '90%', zIndex: '1'}}>
+        <div style={{
+          display: 'flex',
+          justifyContent: 'flex-end',
+          position: 'absolute',
+          right: '0'
+        }}>
+          <span className="badge rounded-pill bg-danger" style={{left: '90%', zIndex: '1'}}>
               {source}
-            </span>
+          </span>
+        </div>
+        
         <img
           src={
             !imgUrl
@@ -27,7 +35,7 @@ class NewsItem extends Component {
             <span className="badge text-bg-primary"></span>
           </p>
           <p className="card-text">
-            <small class="text-muted">
+            <small className="text-muted">
               By  {author ? author : "Unknown"} on {new Date(date).toGMTString()}
             </small>
           </p>
